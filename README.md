@@ -14,7 +14,7 @@ Pipeline for differential RNA-seq analysis comparing H1H1 vs. H2H2 iPSC-derived 
    1) DESeq2
    code: 5_DEseq2.R
 
-## File locations
+## File Locations
 data_provided/ contains the raw gene count matrix, gene effective length, picard metrics, and metadata.
 code/ contains all the scripts
 results/ contains some of the results from running the scripts

@@ -1,4 +1,4 @@
-# H1H2_neuron_RNAseq_Batch1_DA
+# Tau Haplotype Neuron RNAseq Differential Analysis
 Pipeline for differential RNA-seq analysis comparing H1H1 vs. H2H2 iPSC-derived neurons (Batch 1)
 
 ## Pipeline Stages:
